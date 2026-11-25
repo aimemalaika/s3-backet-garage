@@ -1,0 +1,6 @@
+# Secrets
+.env
+
+# Garage persistent data — never commit
+meta/
+data/
